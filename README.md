@@ -67,15 +67,18 @@ Y= A⊕B
 
 
 **PROGRAM** 
+
 ![Screenshot (17)](https://github.com/user-attachments/assets/02b10558-f372-4bc6-990b-c10e1481eb32)
 
 
  
 **LOGIC GATE AND TRUTHTABLE** 
+
 ![WhatsApp Image 2024-11-07 at 11 05 04_27c416e3](https://github.com/user-attachments/assets/591ecbfd-4878-4156-be24-cc364700ddf0)
 
 
 **RTL REALIZATION OUTPUT:**
+
 ![Screenshot (18)](https://github.com/user-attachments/assets/bff83f45-4d61-4db0-9578-ed711aa28d62)
 
 
