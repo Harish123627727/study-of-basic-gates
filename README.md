@@ -79,6 +79,8 @@ Y= A⊕B
 
 
 **TIMING DIAGRAM**
+
+
 ![Screenshot (16)](https://github.com/user-attachments/assets/e3d5514c-2153-4ddd-b365-5ded4ad87691)
 
 
