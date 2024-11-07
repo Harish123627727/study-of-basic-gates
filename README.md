@@ -2,7 +2,7 @@
 
 **REG NO: 24901078**
 
-**EXPERIMENT 1 NAME: STUDY OF BASIC GATES**
+**EXPERIMENT 1: STUDY OF BASIC GATES**
 
 **AIM:** 
 
@@ -67,7 +67,8 @@ Y= A⊕B
 
 
 **PROGRAM** 
-![Screenshot (17)](https://github.com/user-attachments/assets/e97c51e2-d308-4c71-bb6c-77c4acf5db1b)
+![Screenshot (17)](https://github.com/user-attachments/assets/02b10558-f372-4bc6-990b-c10e1481eb32)
+
 
  
 **LOGIC GATE AND TRUTHTABLE** 
