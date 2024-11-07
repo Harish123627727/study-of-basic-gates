@@ -66,17 +66,22 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
-**PROGRAM** ![Screenshot (17)](https://github.com/user-attachments/assets/e97c51e2-d308-4c71-bb6c-77c4acf5db1b)
+**PROGRAM** 
+![Screenshot (17)](https://github.com/user-attachments/assets/e97c51e2-d308-4c71-bb6c-77c4acf5db1b)
 
  
-**LOGIC GATE AND TRUTHTABLE**
-
-**RTL REALIZATION OUTPUT:** ![Screenshot (18)](https://github.com/user-attachments/assets/bff83f45-4d61-4db0-9578-ed711aa28d62)
-
-
-**TIMING DIAGRAM** ![Screenshot (16)](https://github.com/user-attachments/assets/e3d5514c-2153-4ddd-b365-5ded4ad87691)
+**LOGIC GATE AND TRUTHTABLE** 
+![WhatsApp Image 2024-11-07 at 11 05 04_27c416e3](https://github.com/user-attachments/assets/591ecbfd-4878-4156-be24-cc364700ddf0)
 
 
+**RTL REALIZATION OUTPUT:**
+![Screenshot (18)](https://github.com/user-attachments/assets/bff83f45-4d61-4db0-9578-ed711aa28d62)
 
-**RESULT:** To study and verify the truth table of logic gates in Quartus II using Verilog programming successfully.
+
+**TIMING DIAGRAM**
+![Screenshot (16)](https://github.com/user-attachments/assets/e3d5514c-2153-4ddd-b365-5ded4ad87691)
+
+
+
+**RESULT:**  Study and verify the truth table of logic gates in Quartus II using Verilog programming successfully.
 
