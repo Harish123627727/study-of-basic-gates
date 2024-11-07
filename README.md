@@ -89,5 +89,5 @@ Y= A⊕B
 
 
 
-**RESULT:**  Study and verify the truth table of logic gates in Quartus II using Verilog programming successfully.
+**RESULT:**  Studied and verified the truth table of logic gates in Quartus II using Verilog programming successfully.
 
