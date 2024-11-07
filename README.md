@@ -1,6 +1,6 @@
-***NAME: HARISH S
-***REG NO: 24901078
-***EXPERIMENT 1 NAME: STUDY OF BASIC GATES
+***NAME: HARISH S***
+***REG NO: 24901078***
+***EXPERIMENT 1 NAME: STUDY OF BASIC GATES***
 
 **AIM:** 
 
@@ -67,14 +67,14 @@ Y= A⊕B
 **PROGRAM** ![Screenshot (17)](https://github.com/user-attachments/assets/e97c51e2-d308-4c71-bb6c-77c4acf5db1b)
 
  
-**Logic symbol & Truthtable**
+**LOGIC GATE AND TRUTHTABLE**
 
-**RTL realization Output:** ![Screenshot (18)](https://github.com/user-attachments/assets/bff83f45-4d61-4db0-9578-ed711aa28d62)
-
-
-**TimingDiagram ![Screenshot (16)](https://github.com/user-attachments/assets/e3d5514c-2153-4ddd-b365-5ded4ad87691)
+**RTL REALIZATION OUTPUT:** ![Screenshot (18)](https://github.com/user-attachments/assets/bff83f45-4d61-4db0-9578-ed711aa28d62)
 
 
-**Result:** To study and verify the truth table of logic gates in Quartus II using Verilog programming sucessfully.
+**TIMING DIAGRAM** ![Screenshot (16)](https://github.com/user-attachments/assets/e3d5514c-2153-4ddd-b365-5ded4ad87691)
 
+
+
+**RESULT:** To study and verify the truth table of logic gates in Quartus II using Verilog programming successfully.
 
